@@ -1,4 +1,4 @@
-# thingsboard-widgets
+# Terastamp-widgets
 New widgets for ThingsBoard IoT platform.
 
 * _chart-future-timestamps.json_ --> This widget allows to plot a chart with values related to **future timestamps**, with a fixed time window. Can be useful when you need to plot forecasts of trends.
